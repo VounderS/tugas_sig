@@ -4,7 +4,7 @@
 - Kelas: Informatika A
 
 ## Demo
-Demo dapat diakses di https://edwin-lh.is-a.dev/tugas_sig
+Demo dapat diakses di https://unassimilable-matte.000webhostapp.com/
 
 ### Cara run
 1. clone github
