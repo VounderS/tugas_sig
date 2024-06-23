@@ -9,7 +9,7 @@ Demo dapat diakses di https://unassimilable-matte.000webhostapp.com/
 ### Cara run
 1. clone github
 ```bash
-git clone https://github.com/ezerinz/tugas_sig
+git clone https://github.com/VounderS/tugas_sig
 ```
 3. install requirements
 ```bash
